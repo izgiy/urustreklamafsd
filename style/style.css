@@ -1,0 +1,81 @@
+body{
+    margin: 0px 0px;
+    background: rgb(163, 114, 96);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.shapka{
+    width: 1175px;
+    height: 175px;
+    margin: 25px 25px;
+background-color: rgb(253, 175, 56);
+display: inline-block;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(255, 255, 255);
+display: inline-block;
+background: linear-gradient(to left, #F6EFD2, #CEAD78);
+box-shadow: 0px 0px 0px 6px rgb(163, 114, 96);
+}
+.hello{
+margin: 0px;
+padding-left: 100px;
+padding-top: 50px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(255, 255, 255);
+display: inline-block;}
+span{display: inline-block;)
+}
+h1{display: inline-block;}
+.seti{margin-left: 500px;
+margin-top: -75px;
+font-size: 25px;
+}
+main{
+    box-shadow: 0px 0px 0px 6px rgb(163, 114, 96);
+width: 1175px;
+height: 1900px;
+margin:0px 25px;
+background: linear-gradient(to left, #F6EFD2, #CEAD78);
+font-family: italic, sans-serif;
+color: rgb(143, 38, 0);;
+font-size: 30px;
+list-style-type: none;
+}
+.spis{
+    list-style-type: none;
+}
+ul{padding-left: 50px;
+    padding-top: 50px;
+font-size: 30px;}
+.urist{background-image: url(https://static.mk.ru/upload/entities/2019/05/30/08/articles/facebookPicture/06/fd/3d/da/0f2af63229e99c68d208b2fbec99345c.jpg);
+width: 650px;
+height: 500px;
+position: right;
+float: right;
+margin-right: 25px;
+margin-top: 25px;
+box-shadow: 0px 0px 0px 6px rgb(163, 114, 96);}
+li{padding-top: 20px;
+text-decoration: underline;
+list-style-type: none;}
+.pp{text-align: center;
+padding-top: 15px;
+color: rgb(19, 11, 133):}
+button
+{font-size: 20px;
+    background-color:
+    rgb(143, 38, 0);
+    margin: 15px 0px;
+    box-shadow: 0 3px 20px rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.6), 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+    -moz-box-shadow: 0 3px 20px rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.6), 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);
+    -webkit-box-shadow: 0 3px 20px rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.6), 0 2px 0 rgba(0,0,0,.1), inset 0 0 20px rgba(0,0,0,.1);}
+    .niz{padding-left: 100px;
+    padding-right: 100px;
+    text-indent:50px;}
+    .pic{
+        background-color: rgb(255, 255, 255);
+   margin:0px 200px;
+padding-top: 5px;
+padding-bottom: 5px;
+box-shadow: 0px 0px 0px 6px rgb(163, 114, 96);
+color: rgb(224, 0, 0);}
